@@ -1,0 +1,23 @@
+body{
+    background-color: antiquewhite;
+}
+hr{
+    border-style: dotted none none;
+    /* border-right-style: none;
+    border-left-style: none;
+    border-bottom-style: none; */
+   
+    border-color: brown;
+    border-width: 5px;
+    height: 3px;
+    width: 30%;
+}
+img{
+    height: 200px;
+}
+h1{
+    color: brown;
+}
+h3{
+    color: brown;
+}
